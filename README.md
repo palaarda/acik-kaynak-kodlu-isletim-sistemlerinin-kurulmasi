@@ -1,7 +1,7 @@
 # Açık Kaynak kodlu işletim sistemleri sanal makineye nasıl kurulur.
  How to installing a open source operating system in virtual machine. 2021-2022
 ## Open source operating systems that you can install by following this presentation.
--Pardus (Linux)/br
+-Pardus (Linux)
 -Kali Linux (Linux)
 -Linux Mint (Linux)
 -Arch Linux (Linux)
