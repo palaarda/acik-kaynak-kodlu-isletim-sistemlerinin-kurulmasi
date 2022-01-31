@@ -18,4 +18,4 @@
 -Gentoo (Linux)<br/>
 
 And More: https://tr.wikipedia.org/wiki/Linux_da%C4%9F%C4%B1t%C4%B1m%C4%B1<br/>
-          https://en.wikipedia.org/wiki/Linux_distribution
+          https://en.wikipedia.org/wiki/Linux_distribution 
