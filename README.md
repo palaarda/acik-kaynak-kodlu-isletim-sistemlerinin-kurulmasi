@@ -4,7 +4,7 @@
 -Pardus (Linux)<br/>
 -Kali Linux (Linux)<br/>
 -Linux Mint (Linux)<br/>
--Arch Linux (Linux)<br/>
+-Arch Linux (Linux)<br/> 
 -ParrotOs (Linux)<br/>
 -Ubuntu (Linux)<br/>
 -Debian (Linux)<br/>
